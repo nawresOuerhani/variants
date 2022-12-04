@@ -1,21 +1,4 @@
 {
-  "variants": [
-    {
-      "id": 2001,
-      "color": "red",
-      "quantity": 50
-    },
-    {
-      "id": 2002,
-      "color": "yellow",
-      "quantity": 80 
-    },
-    {
-      "id": 2003,
-      "color": "orange"
-      "quantity": 0
-    }
-  ],
   "comments": [
     {
       "id": 1,
