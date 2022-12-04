@@ -1,23 +1,31 @@
 {
- "variants": [
- {
-   "id": 2001,
-   "color": "red",
-   "image": "https://cdn.florajet.com/produits/1000/11559.jpg",
-   "quantity": 50,
- },
- {
-   "id": 2002,
-   "color": "yellow",
-   "image":
-     "https://julietrose.lt/wp-content/uploads/2017/02/geltonu-roziu-puokste.jpg",
-   "quantity": 80,
-  },
-  {
-   "id": 2003,
-   "color": "orange",
-   "image":
-     "https://www.turkflowers.com/buyukresim/25-adet-fransa-turuncu-gul.jpg",
-   "quantity": 0,
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
- ]
+}
